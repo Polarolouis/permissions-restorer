@@ -19,7 +19,7 @@ chmod +x permissions-restorer.sh
 
 Then you can use the script as follows:
 
-```bash
+```
 permissions-restorer.sh REFERENCE TARGET
 
 Arguments:
